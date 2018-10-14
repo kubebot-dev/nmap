@@ -1,11 +1,11 @@
-# Nmap 7.70 scan initiated Sun Oct 14 07:46:10 2018 as: nmap -Pn -p 1-1000 -oN /tmp/results/nmap_google.com.nmap google.com
-Nmap scan report for google.com (216.58.221.110)
-Host is up (0.094s latency).
-Other addresses for google.com (not scanned): 2404:6800:4005:80e::200e
-rDNS record for 216.58.221.110: hkg07s01-in-f14.1e100.net
+# Nmap 7.70 scan initiated Sun Oct 14 08:16:37 2018 as: nmap -Pn -p 1-1000 -oN /tmp/results/nmap_google.com.nmap google.com
+Nmap scan report for google.com (216.58.220.206)
+Host is up (0.051s latency).
+Other addresses for google.com (not scanned): 2404:6800:4005:80f::200e
+rDNS record for 216.58.220.206: del01s08-in-f206.1e100.net
 Not shown: 998 filtered ports
 PORT    STATE SERVICE
 80/tcp  open  http
 443/tcp open  https
 
-# Nmap done at Sun Oct 14 07:46:25 2018 -- 1 IP address (1 host up) scanned in 15.56 seconds
+# Nmap done at Sun Oct 14 08:16:43 2018 -- 1 IP address (1 host up) scanned in 6.25 seconds

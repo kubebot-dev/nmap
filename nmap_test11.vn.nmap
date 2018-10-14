@@ -1,0 +1,7 @@
+# Nmap 7.70 scan initiated Sun Oct 14 07:43:44 2018 as: nmap -Pn -p 1-1000 -oN /tmp/results/nmap_test11.vn.nmap test11.vn
+Nmap scan report for test11.vn (125.235.4.59)
+Host is up.
+rDNS record for 125.235.4.59: 125.235.4.59.adsl.viettel.vn
+All 1000 scanned ports on test11.vn (125.235.4.59) are filtered
+
+# Nmap done at Sun Oct 14 07:47:05 2018 -- 1 IP address (1 host up) scanned in 201.36 seconds

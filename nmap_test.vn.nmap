@@ -1,4 +1,4 @@
-# Nmap 7.70 scan initiated Sun Oct 14 07:42:54 2018 as: nmap -Pn -p 1-1000 -oN /tmp/results/nmap_test.vn.nmap test.vn
+# Nmap 7.70 scan initiated Sun Oct 14 07:42:58 2018 as: nmap -Pn -p 1-1000 -oN /tmp/results/nmap_test.vn.nmap test.vn
 Failed to resolve "test.vn".
 WARNING: No targets were specified, so 0 hosts scanned.
-# Nmap done at Sun Oct 14 07:42:54 2018 -- 0 IP addresses (0 hosts up) scanned in 0.04 seconds
+# Nmap done at Sun Oct 14 07:42:58 2018 -- 0 IP addresses (0 hosts up) scanned in 0.03 seconds
